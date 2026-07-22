@@ -1,198 +1,377 @@
-<!-- ========================================= -->
-<!--                HEADER                     -->
-<!-- ========================================= -->
+<!-- ========================================================= -->
+<!--                      PROFILE HEADER                        -->
+<!-- ========================================================= -->
 
-<h1 align="center">Bhuvanesh C</h1>
-<h3 align="center">Senior Full Stack Engineer • Backend Architect • Open Source Contributor</h3>
+<h1 align="center">Hi 👋, I'm Bhuvanesh C</h1>
+
+<h3 align="center">
+Senior Full Stack Engineer • Angular Developer • Node.js Developer • Open Source Contributor
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=2563EB&center=true&vCenter=true&width=900&lines=Building+Scalable+Distributed+Systems;Designing+High-Performance+Backends;Architecting+Real-Time+Applications;TypeScript-First+Engineering;Cloud+Native+Production+Systems" />
+Building scalable enterprise applications with Angular, Node.js, TypeScript and modern software engineering practices.
 </p>
 
 <p align="center">
-  Architecting scalable systems with clarity, performance, and long-term maintainability.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Senior+Angular+Developer;Full+Stack+Engineer;Node.js+%7C+NestJS+%7C+Express.js;Building+Enterprise+Applications;Microservices+%7C+REST+APIs+%7C+Socket.IO;Open+Source+Contributor;AI-Assisted+Software+Development;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<a href="https://github.com/bhuvaneshcj">
+<img src="https://img.shields.io/github/followers/bhuvaneshcj?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/bhuvaneshcj">
+<img src="https://img.shields.io/github/stars/bhuvaneshcj?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=bhuvaneshcj&style=for-the-badge&color=2563EB"/>
 </p>
 
 ---
 
-<!-- ========================================= -->
-<!--             ENGINEERING PROFILE           -->
-<!-- ========================================= -->
+# 👨‍💻 About Me
 
-## 🧠 Engineering Profile
+I'm a **Senior Full Stack Engineer** with **4.5+ years of experience** building enterprise web and mobile applications using **Angular, Node.js, NestJS, Express.js, TypeScript, and Ionic**.
 
-I am a **Senior Full Stack Engineer** with 4+ years of experience building scalable, high-performance web and mobile applications.
+I enjoy designing scalable backend systems, developing reusable frontend architectures, creating real-time applications, and building open-source tools that improve developer productivity.
 
-My core strength lies in **backend architecture**, distributed systems, and real-time engineering.
-
-I focus on designing systems that are:
-
-- Scalable by architecture  
-- Performant by design  
-- Secure by default  
-- Maintainable long-term  
-- Production-ready from day one  
+Currently working as an **IT Analyst at Tata Consultancy Services (TCS)** while continuously enhancing my expertise in enterprise application development, cloud technologies, AI-assisted development, and software architecture.
 
 ---
 
-<!-- ========================================= -->
-<!--             WHAT I BUILD                  -->
-<!-- ========================================= -->
+# 🚀 Engineering Focus
 
-## ⚡ What I Build
+- 💻 Enterprise Web Applications
+- ⚡ Angular (12–21)
+- 🔷 TypeScript First Development
+- 🚀 Node.js Backend Development
+- 🏗️ NestJS & Express.js
+- 🔌 REST API Design
+- 🔥 Socket.IO & WebSockets
+- 🧩 Microservices Architecture
+- 🔐 JWT Authentication
+- 🛡️ OAuth 2.0
+- 👥 Role-Based Access Control (RBAC)
+- 💳 Payment Gateway Integration
+- 📱 WhatsApp Business API
+- ✉️ Email Services
+- 📲 SMS & OTP Verification
+- 🗄️ MySQL
+- ⚙️ CI/CD
+- ☁️ AWS (Learning)
+- 🌍 Open Source Development
+- 🤖 AI-Assisted Software Development
 
-### 🔹 High-Performance Backend Systems
-- Node.js (Expert)
-- NestJS
-- Express.js
-- Laravel
-- REST API Design
-- Authentication (JWT, OAuth, RBAC)
-- Rate Limiting & API Security
+---
 
-### 🔹 Real-Time Architectures
-- WebSockets
-- Redis-based streaming
-- Event-driven systems
-- Live dashboards
-- High-throughput message handling
+# 🛠 Tech Stack
 
-### 🔹 Enterprise Frontend Applications
-- Angular (Expert)
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind"/>
+</p>
+
+- Angular (12–21)
 - TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
 - RxJS
-- Modular component architecture
-- Performance optimization & lazy loading
-
-### 🔹 Mobile Applications
-- Ionic + Angular
-- Flutter
-- Play Store & App Store deployments
-- Mobile performance optimization
-
-### 🔹 Cloud & Infrastructure
-- AWS (EC2, S3, RDS)
-- DigitalOcean
-- Linux Server Management
-- Nginx & Reverse Proxy
-- SSL & Domain Configuration
-- CI/CD Pipelines
+- Angular Material
+- Reactive Forms
+- Angular Routing
+- Ionic Framework
 
 ---
 
-<!-- ========================================= -->
-<!--           PROFESSIONAL IMPACT             -->
-<!-- ========================================= -->
+## ⚙️ Backend
 
-## 📊 Engineering Impact
-
-- Improved backend system performance by **40%**
-- Reduced deployment time by **60%**
-- Reduced API response times by **50%** using Redis caching
-- Refactored monolithic systems into scalable microservices
-- Built high-throughput real-time systems supporting live updates
-- Mentored engineers on clean architecture and backend patterns
-
----
-
-<!-- ========================================= -->
-<!--             TECH STACK VISUAL             -->
-<!-- ========================================= -->
-
-## 🛠 Tech Stack
-
-### Backend & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,redis,mysql,aws,linux" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
 </p>
 
-### Frontend & Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,tailwind,flutter" />
-</p>
-
-### Dev Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
-
----
-
-<!-- ========================================= -->
-<!--             OPEN SOURCE                   -->
-<!-- ========================================= -->
-
-## 🌍 Open Source & NPM Packages
-
-### 📦 npm-warden
-Production-ready CLI tool for auditing npm dependencies for security vulnerabilities and maintenance risks.
-
-🔗 https://www.npmjs.com/package/npm-warden  
+- Node.js
+- Express.js
+- NestJS
+- REST APIs
+- Socket.IO
+- WebSockets
+- Microservices
+- JWT Authentication
+- OAuth 2.0
+- RBAC
 
 ---
 
-### 📦 cloudflare-kit
-Enterprise-grade toolkit for building scalable Cloudflare Workers applications.
+## 🗄️ Database
 
-Includes:
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+- MySQL
+- Sequelize
+- TypeORM
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman"/>
+</p>
+
+- AWS (Basics)
+- Git
+- GitHub
+- Postman
+- CI/CD
+- npm
+
+---
+
+## 🧪 Testing
+
+- Jasmine
+- Karma
+- Jest
+- Cypress
+- Playwright
+
+---
+
+# 🤖 AI & Developer Productivity
+
+I actively use AI to accelerate software development and improve code quality.
+
+- Agentic AI Workflows
+- Prompt Engineering
+- GitHub Copilot
+- Claude
+- Cursor AI
+- AI-Assisted Code Generation
+- AI-Assisted Refactoring
+- AI-Assisted Debugging
+- AI-Assisted Documentation
+- AI-Assisted Test Generation
+- AI-Assisted Code Reviews
+
+---
+
+# 💼 Enterprise Projects
+
+## 💰 Botree Money
+
+**Loan Management System**
+
+**Tech Stack**
+
+Angular • Express.js • Node.js • MySQL
+
+### Highlights
+
+- Developed Customer Portal
+- Developed Admin Portal
+- Loan Application Workflow
+- Document Management
+- Loan Verification
+- Approval Workflow
+- REST API Integration
+- Performance Optimization
+
+---
+
+## 🚚 FieldFixx
+
+**Field Service Management Platform**
+
+**Tech Stack**
+
+Angular • Ionic • Node.js • Express.js
+
+### Highlights
+
+- Technician Mobile App
+- Admin Web Portal
+- Attendance Management
+- Work Order Management
+- Service Request Workflow
+- Job Status Tracking
+- Backend Integration
+- Production Support
+
+---
+
+## 📈 FinGenesis
+
+**Trading Platform**
+
+**Tech Stack**
+
+Angular • Express.js • Node.js • Microservices
+
+### Highlights
+
+- Trading Dashboard
+- Authentication Service
+- Market Data Service
+- Forecast Service
+- Scanner Engine
+- REST APIs
+- Microservices
+- Performance Optimization
+
+---
+
+# 🌍 Open Source
+
+## 📦 npm-warden
+
+Production-ready CLI tool for auditing npm dependencies.
+
+### Features
+
+- Security Vulnerability Analysis
+- Dependency Health Reports
+- Package Maintenance Reports
+- CLI Experience
+- TypeScript
+- Open Source
+
+🔗 https://www.npmjs.com/package/npm-warden
+
+---
+
+## ☁️ cloudflare-kit
+
+Production-ready toolkit for Cloudflare Workers.
+
+### Features
+
 - Authentication
-- D1 Database
-- KV Caching
-- R2 Storage
-- Queues
 - Middleware
-- Observability
+- Routing
+- D1 Database
+- KV Storage
+- R2 Storage
+- Queue Support
+- Edge Computing
 
-🔗 https://www.npmjs.com/package/cloudflare-kit  
-
----
-
-<!-- ========================================= -->
-<!--             CURRENT FOCUS                 -->
-<!-- ========================================= -->
-
-## 🔥 Currently Exploring
-
-- Distributed caching strategies
-- Edge computing patterns
-- Scalable WebSocket infrastructure
-- Multi-tenant system design
-- Performance tuning at scale
+🔗 https://www.npmjs.com/package/cloudflare-kit
 
 ---
 
-<!-- ========================================= -->
-<!--             GITHUB STATS                  -->
-<!-- ========================================= -->
-
-## 📈 GitHub Insights
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvaneshcj&theme=tokyonight&hide_border=true" />
-</p>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhuvaneshcj&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<!-- ========================================= -->
-<!--             CONTACT                       -->
-<!-- ========================================= -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshcj&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/bhuvaneshcj/">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="http://bhuvaneshcj.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:cjbhuvanesh8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>Building systems that scale reliably and perform efficiently.</strong>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvaneshcj&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvaneshcj&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Highlights
+
+🏢 4.5+ Years of Professional Experience
+
+⚡ Angular (12–21)
+
+🚀 Full Stack Development
+
+🌐 Enterprise Application Development
+
+📦 Published Open Source Packages
+
+🔐 Authentication & Authorization
+
+⚙️ Microservices Architecture
+
+🔄 REST API Development
+
+🔥 Real-Time Applications
+
+💳 Payment Gateway Integration
+
+📲 WhatsApp API Integration
+
+📈 Performance Optimization
+
+🤖 AI-Assisted Development
+
+---
+
+# 📚 Currently Learning
+
+- Advanced System Design
+- Distributed Systems
+- Cloud Architecture
+- AWS Services
+- Event-Driven Architecture
+- Edge Computing
+- AI Agents & MCP
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/bhuvaneshcj">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://bhuvaneshcj.github.io">
+<img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:cjbhuvanesh8@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/bhuvaneshcj">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."** – John Johnson
+
+---
+
+<p align="center">
+
+### Thanks for visiting! 😊
+
+⭐ If you like my projects, consider giving them a star.
+
+**Building scalable software, contributing to open source, and continuously learning.**
+
 </p>
