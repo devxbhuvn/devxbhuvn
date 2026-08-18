@@ -1,277 +1,143 @@
-# 👋 Hi, I'm Bhuvanesh C
+<div align="center">
 
-<p align="center">
-  <strong>Senior Full Stack Engineer</strong>
-</p>
+# Bhuvanesh C
 
-<p align="center">
-  Angular • Node.js • TypeScript • NestJS • Enterprise Applications
-</p>
+### Senior Full Stack Engineer
 
-<p align="center">
-  Building scalable enterprise applications with modern architecture,
-  clean engineering practices and production-ready solutions.
-</p>
+**Angular · Node.js · TypeScript · NestJS**
 
-<p align="center">
-  <a href="https://github.com/devxbhuvn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/devxbhuvn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://bhuvaneshcj.in">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:cjbhuvanesh8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=850&lines=Senior+Angular+Developer;Full+Stack+Engineer;Node.js+%7C+NestJS+%7C+Express.js;Enterprise+Application+Development;Microservices+%7C+REST+APIs+%7C+WebSockets;Always+Learning+New+Technologies" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a **Senior Full Stack Engineer** with **4.5+ years of experience** building enterprise web and mobile applications.
-
-My primary expertise is in **Angular, Node.js, TypeScript, NestJS, Express.js and Ionic**, with a strong focus on scalable architecture, reusable frontend systems, robust backend services and maintainable codebases.
-
-Currently working as an **IT Analyst at Tata Consultancy Services (TCS)** while continuously expanding my knowledge in system design, cloud architecture, distributed systems and modern software engineering.
-
-I enjoy solving complex engineering problems and turning business requirements into reliable, production-ready applications.
-
----
-
-# ⚡ What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Frontend Engineering
-
-Building scalable and maintainable frontend architectures with reusable components and strong development patterns.
-
-**Angular · TypeScript · RxJS · Ionic · Tailwind CSS · Angular Material**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Backend Engineering
-
-Designing robust APIs and backend services for complex enterprise workflows.
-
-**Node.js · NestJS · Express.js · REST APIs · Socket.IO**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Scalable Architecture
-
-Designing applications with clear boundaries and maintainable service architectures.
-
-**Microservices · Event-Driven Architecture · REST · WebSockets**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔐 Security & Integrations
-
-Building secure authentication flows and integrating external services into enterprise applications.
-
-**JWT · OAuth 2.0 · RBAC · OTP · Payment APIs**
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Technology Stack
-
-## 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind" />
-</p>
-
-`Angular` `TypeScript` `JavaScript` `RxJS` `Ionic` `Angular Material` `Reactive Forms` `Angular Routing`
-
----
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
-</p>
-
-`Node.js` `NestJS` `Express.js` `REST APIs` `Socket.IO` `WebSockets` `Microservices`
-
----
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-`MySQL` `Sequelize` `TypeORM`
-
----
-
-## ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,postman" />
-</p>
-
-`AWS` `Git` `GitHub` `CI/CD` `npm` `Postman`
-
----
-
-## 🧪 Testing
-
-`Jasmine` `Karma` `Jest` `Cypress` `Playwright`
-
----
-
-# 🏆 Engineering Highlights
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 4.5+
-
-Years Experience
-
-</td>
-
-<td align="center" width="25%">
-
-### Angular 12–21
-
-Frontend
-
-</td>
-
-<td align="center" width="25%">
-
-### Full Stack
-
-Web + Mobile
-
-</td>
-
-<td align="center" width="25%">
-
-### Enterprise
-
-Applications
-
-</td>
-</tr>
-</table>
+Building scalable enterprise applications with modern web technologies.
 
 <br>
 
-* ⚡ Enterprise web application development
-* 🎨 Advanced Angular architecture
-* 🚀 Node.js backend development
-* 🧩 Microservices architecture
-* 🔄 REST API development
-* 🔥 Real-time applications with Socket.IO
-* 🔐 Authentication & authorization
-* 💳 Payment gateway integrations
-* 📲 WhatsApp Business API integrations
-* 📈 Application performance optimization
-* 📱 Web and mobile application development
+<a href="https://github.com/devxbhuvn">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/devxbhuvn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://bhuvaneshcj.in">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:cjbhuvanesh8@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 📊 GitHub Activity
+<div align="center">
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devxbhuvn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+### ⚡ Tech Stack
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbhuvn&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,rxjs,nodejs,nestjs,express,mysql,aws,git,github,postman&perline=8" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devxbhuvn&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devxbhuvn&theme=tokyo-night&hide_border=true" />
-</p>
+</div>
 
 ---
-
-# 📚 Currently Exploring
 
 <table>
 <tr>
-<td align="center">🏗️<br><strong>System Design</strong></td>
-<td align="center">🌐<br><strong>Distributed Systems</strong></td>
-<td align="center">☁️<br><strong>Cloud Architecture</strong></td>
-</tr>
+<td width="33%" align="center">
 
-<tr>
-<td align="center">⚡<br><strong>Event-Driven Architecture</strong></td>
-<td align="center">🌍<br><strong>Edge Computing</strong></td>
-<td align="center">☁️<br><strong>AWS Services</strong></td>
+### 4.5+
+
+**Years Experience**
+
+</td>
+
+<td width="33%" align="center">
+
+### Full Stack
+
+**Web + Mobile**
+
+</td>
+
+<td width="33%" align="center">
+
+### Enterprise
+
+**Application Development**
+
+</td>
 </tr>
 </table>
 
 ---
 
-# 🎯 Engineering Philosophy
+<div align="center">
 
-> **"First, solve the problem. Then, write the code."**
+### 🧩 Core Expertise
 
-I believe good software isn't just about writing code.
+<img src="https://img.shields.io/badge/Angular-0F172A?style=flat-square&logo=angular&logoColor=DD0031"/>
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/NestJS-0F172A?style=flat-square&logo=nestjs&logoColor=E0234E"/>
+<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Microservices-0F172A?style=flat-square&logo=buffer&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-0F172A?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-0F172A?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Ionic-0F172A?style=flat-square&logo=ionic&logoColor=3880FF"/>
 
-It's about understanding the problem, choosing the right architecture, keeping systems maintainable and continuously improving the developer and user experience.
+</div>
 
 ---
 
-# 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
+### 📊 GitHub
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devxbhuvn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbhuvn&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Currently Exploring
+
+<img src="https://img.shields.io/badge/System_Design-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud_Architecture-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Event--Driven_Architecture-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS-2563EB?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Edge_Computing-2563EB?style=flat-square"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👋 Let's Connect
 
 <a href="https://github.com/devxbhuvn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/devxbhuvn">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://bhuvaneshcj.in">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="mailto:cjbhuvanesh8@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</div>
 
-</p>
+<br>
 
----
+<div align="center">
 
-<p align="center">
+**Building scalable software • Learning continuously**
 
-### ⭐ Thanks for visiting!
-
-**Building scalable software · Solving complex problems · Continuously learning**
-
-</p>
+</div>
