@@ -1,143 +1,91 @@
-<div align="center">
-
 # Bhuvanesh C
 
-### Senior Full Stack Engineer
+**Senior Full Stack Engineer · Angular · Node.js · TypeScript**
 
-**Angular · Node.js · TypeScript · NestJS**
+Building scalable enterprise web and mobile applications with a focus on clean architecture, reliable APIs and maintainable software.
 
-Building scalable enterprise applications with modern web technologies.
-
-<br>
-
-<a href="https://github.com/devxbhuvn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/devxbhuvn">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://bhuvaneshcj.in">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:cjbhuvanesh8@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+[GitHub](https://github.com/devxbhuvn) · [LinkedIn](https://www.linkedin.com/in/devxbhuvn) · [Portfolio](https://bhuvaneshcj.in) · [Email](mailto:cjbhuvanesh8@gmail.com)
 
 ---
 
-<div align="center">
+## About
 
-### ⚡ Tech Stack
+**4.5+ years of experience** building enterprise applications across frontend and backend systems.
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,rxjs,nodejs,nestjs,express,mysql,aws,git,github,postman&perline=8" />
+Currently working as an **IT Analyst at Tata Consultancy Services (TCS)**.
 
-</div>
+My primary stack is:
 
----
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 4.5+
-
-**Years Experience**
-
-</td>
-
-<td width="33%" align="center">
-
-### Full Stack
-
-**Web + Mobile**
-
-</td>
-
-<td width="33%" align="center">
-
-### Enterprise
-
-**Application Development**
-
-</td>
-</tr>
-</table>
+`Angular` `TypeScript` `Node.js` `NestJS` `Express.js` `MySQL`
 
 ---
 
-<div align="center">
+## Tech Stack
 
-### 🧩 Core Expertise
+### Frontend
 
-<img src="https://img.shields.io/badge/Angular-0F172A?style=flat-square&logo=angular&logoColor=DD0031"/>
-<img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=5FA04E"/>
-<img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/NestJS-0F172A?style=flat-square&logo=nestjs&logoColor=E0234E"/>
-<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/Microservices-0F172A?style=flat-square&logo=buffer&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSockets-0F172A?style=flat-square&logo=socketdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-0F172A?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Ionic-0F172A?style=flat-square&logo=ionic&logoColor=3880FF"/>
+![Angular](https://skillicons.dev/icons?i=angular) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-</div>
+**Angular · TypeScript · JavaScript · RxJS · Ionic · Angular Material**
 
----
+### Backend
 
-<div align="center">
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![NestJS](https://skillicons.dev/icons?i=nestjs) ![Express](https://skillicons.dev/icons?i=express)
 
-### 📊 GitHub
+**Node.js · NestJS · Express.js · REST APIs · Socket.IO · WebSockets**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devxbhuvn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+### Database & Tools
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbhuvn&layout=compact&theme=tokyonight&hide_border=true"/>
+![MySQL](https://skillicons.dev/icons?i=mysql) ![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Postman](https://skillicons.dev/icons?i=postman)
 
-</div>
+**MySQL · Sequelize · TypeORM · AWS · Git · GitHub · CI/CD · Postman**
 
 ---
 
-<div align="center">
+## Engineering
 
-### 🚀 Currently Exploring
-
-<img src="https://img.shields.io/badge/System_Design-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Distributed_Systems-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud_Architecture-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Event--Driven_Architecture-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/AWS-2563EB?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Edge_Computing-2563EB?style=flat-square"/>
-
-</div>
+* Enterprise application development
+* Angular architecture and reusable frontend systems
+* Node.js backend development
+* REST API design
+* Microservices
+* Real-time applications
+* Authentication and authorization
+* JWT · OAuth 2.0 · RBAC
+* Payment and third-party API integrations
+* Web and mobile application development
+* Performance optimization
 
 ---
 
-<div align="center">
+## Experience
 
-### 👋 Let's Connect
+**Senior Full Stack Engineering**
 
-<a href="https://github.com/devxbhuvn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`Angular` `Node.js` `TypeScript` `NestJS` `Ionic`
 
-<a href="https://www.linkedin.com/in/devxbhuvn">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Focused on building production-ready applications, scalable backend services and maintainable frontend architectures.
 
-<a href="https://bhuvaneshcj.in">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+---
 
-</div>
+## Connect
 
-<br>
+**GitHub**
+https://github.com/devxbhuvn
 
-<div align="center">
+**LinkedIn**
+https://www.linkedin.com/in/devxbhuvn
 
-**Building scalable software • Learning continuously**
+**Portfolio**
+https://bhuvaneshcj.in
 
-</div>
+**Email**
+[cjbhuvanesh8@gmail.com](mailto:cjbhuvanesh8@gmail.com)
+
+---
+
+<p align="left">
+
+**Building scalable software, one system at a time.**
+
+</p>
