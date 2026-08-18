@@ -279,7 +279,7 @@ Production-ready toolkit for Cloudflare Workers.
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://devxbhuvn.github.io">
+<a href="https://bhuvaneshcj.in">
 <img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
