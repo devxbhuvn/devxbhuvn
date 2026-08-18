@@ -17,15 +17,15 @@ Building scalable enterprise applications with Angular, Node.js, TypeScript and 
 </p>
 
 <p align="center">
-<a href="https://github.com/bhuvaneshcj">
-<img src="https://img.shields.io/github/followers/bhuvaneshcj?label=Followers&style=for-the-badge"/>
+<a href="https://github.com/devxbhuvn">
+<img src="https://img.shields.io/github/followers/devxbhuvn?label=Followers&style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/bhuvaneshcj">
-<img src="https://img.shields.io/github/stars/bhuvaneshcj?affiliations=OWNER&style=for-the-badge"/>
+<a href="https://github.com/devxbhuvn">
+<img src="https://img.shields.io/github/stars/devxbhuvn?affiliations=OWNER&style=for-the-badge"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=bhuvaneshcj&style=for-the-badge&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=devxbhuvn&style=for-the-badge&color=2563EB"/>
 </p>
 
 ---
@@ -203,17 +203,9 @@ Production-ready toolkit for Cloudflare Workers.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhuvaneshcj&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devxbhuvn&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshcj&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvaneshcj&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbhuvn&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -221,7 +213,15 @@ Production-ready toolkit for Cloudflare Workers.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvaneshcj&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devxbhuvn&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devxbhuvn&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -275,11 +275,11 @@ Production-ready toolkit for Cloudflare Workers.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/bhuvaneshcj">
+<a href="https://www.linkedin.com/in/devxbhuvn">
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://bhuvaneshcj.github.io">
+<a href="https://devxbhuvn.github.io">
 <img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -287,7 +287,7 @@ Production-ready toolkit for Cloudflare Workers.
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/bhuvaneshcj">
+<a href="https://github.com/devxbhuvn">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
